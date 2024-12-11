@@ -1,9 +1,8 @@
 # 🛠️ Bug Bounty Cheatsheet
 
 ### 🚀 For more like this, join us at:
-- [📱 Telegram](https://telegram.me/RedTeamGarage)
-- [🌐 Website](https://www.redteamgarage.com)
-- [💼 LinkedIn](https://www.linkedin.com/company/redteamgarage-rtg/)
+- [🌐 Website](https://www.sehranrasooljan.com)
+- [💼 LinkedIn](https://www.linkedin.com/in/sehran-rasool-jan/)
 
 ---
 
