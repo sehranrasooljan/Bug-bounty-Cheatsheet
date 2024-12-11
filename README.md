@@ -89,4 +89,4 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XPATH%20Injectio
 Bypass Upload Tricky
 https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files
 
-@CyberTrickZone
+@Happy Hacking
